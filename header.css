@@ -39,3 +39,20 @@
         padding-left: 5em;
     }
 }
+.cabecalho__menu-hamburguer-imagem{
+    width: 24 px;
+    height: 24px;
+    display:inline-block;
+}
+.menu-hamburguer-imagem{
+    width: 24px;
+    height: 24px;
+    justify-content:space-between;
+    align-items : center;
+}
+.container-imagem{
+    width: 24px;
+    height: 24px;
+    justify-content: space-between;
+    align-items: center;
+}
