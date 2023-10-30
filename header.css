@@ -50,7 +50,7 @@
     justify-content:space-between;
     align-items : center;
 }
-.container-imagem{
+.container__imagem{
     width: 24px;
     height: 24px;
     justify-content: space-between;
