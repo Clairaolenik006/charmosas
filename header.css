@@ -12,6 +12,7 @@
 }
 .container-titulo, .container-frase{
     display: none;
+    align-items: center;
 }
 @media screen and (min_width: 820px){
     .container-titulo, .container-titulo-negrito{
